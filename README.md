@@ -8,7 +8,7 @@ SQLite and SQLAlchemy were used to run queries on weather data for analysis. Pyt
 
 - Temperatures in June seem to be slightly higher than temperatures in December when comparing the average, min, and max temperatures. This can be seen in the summary statistics tables for each month below.
 
-- There is a larger range of temperatures accounted for in the percentiles and when looking at the min and max for December relative to June. There therefore seems to be more variety in weather during December
+- There is a larger range of temperatures accounted for in the percentiles when looking at the min and max for December relative to June. There therefore seems to be slightly more variety in weather during December (less consistent weather)
 
 - I also noticed that there is more data for June (there is a count of 1700) versus December (there is a count of 1517)
 
